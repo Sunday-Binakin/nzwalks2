@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NWalks.API.props" />
+</Project>

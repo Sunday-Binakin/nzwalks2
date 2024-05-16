@@ -135,3 +135,4 @@ D:\C#\Backend\Udemy\NWalks2\NWalks.API\obj\Debug\net8.0\refint\NWalks.API.dll
 D:\C#\Backend\Udemy\NWalks2\NWalks.API\obj\Debug\net8.0\NWalks.API.pdb
 D:\C#\Backend\Udemy\NWalks2\NWalks.API\obj\Debug\net8.0\NWalks.API.genruntimeconfig.cache
 D:\C#\Backend\Udemy\NWalks2\NWalks.API\obj\Debug\net8.0\ref\NWalks.API.dll
+D:\C#\Backend\Udemy\NWalks2\NWalks.API\obj\Debug\net8.0\NWalks.API.sourcelink.json
